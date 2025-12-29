@@ -6,6 +6,7 @@
 Hi! I'm **Mark Belousov** (aka **MadMarchello**) — a [CODA (child of Deaf adults)](https://en.wikipedia.org/wiki/Child_of_deaf_adult).  
 
 I’m a **software developer** and **systems architect** specializing in **accessibility-focused products** and **high-load, large-scale systems**, including **banking** and **e-commerce platforms**.  
+
 I design **scalable, fault-tolerant architectures** and implement **end-to-end solutions** using modern technologies across frontend, backend, and cloud infrastructure.
 
 Connect with me:  
