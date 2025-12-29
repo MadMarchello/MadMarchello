@@ -1,77 +1,79 @@
 ## Welcome to my page! 👋
 
-> I didn’t understand anything from the explanations, but gradually I got used to it and stopped being surprised.
->
+> I didn’t understand anything from the explanations, but gradually I got used to it and stopped being surprised.  
 > <p align='right'>Strugatsky. Monday begins on Saturday.</p>
 
-My name is Mark Belousov aka MadMarchello and I am [CODA - Child Of Deaf Adults.](https://en.wikipedia.org/wiki/Child_of_deaf_adult)
+Hi! I'm **Mark Belousov** (aka **MadMarchello**) — a [CODA (child of Deaf adults)](https://en.wikipedia.org/wiki/Child_of_deaf_adult).  
 
-I am a frontend-developer and systems analyst
+I’m a **software developer** and **systems architect** specializing in **accessibility-focused products** and **high-load, large-scale systems**, including **banking** and **e-commerce platforms**.  
+I design **scalable, fault-tolerant architectures** and implement **end-to-end solutions** using modern technologies across frontend, backend, and cloud infrastructure.
 
-Connect with me:
+Connect with me:  
+- 📧 **Email:** [madmarchello@gmail.com](mailto:madmarchello@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/madmarchello](https://linkedin.com/in/madmarchello)
 
-<img src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/vk-4680C2.svg?&style=for-the-badge&logo=vk&logoColor=white" />&nbsp;
+---
 
-Some facts about me:
+### 🌍 About Me
+- ❄️ Based in Novosibirsk  
+- 🧏‍♂️ Fluent in sign language; provide occasional support to the Deaf community as an interpreter  
 
-- ❄️ I'm from Novosibirsk
-- 👨‍💻 I am engaged in the development of software for - persons with disabilities and system analysis of banking applications.
-- 🧏‍♂️ I know sign language, sometimes I help the deaf as a sign language interpreter.
+---
 
-#### 💻 Tech Stack:
+### 💻 Tech Stack
 
-<img src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=fff" />&nbsp;
-<img src="https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=fff" />&nbsp;
-<img src="https://img.shields.io/badge/mobx-orange.svg?&style=for-the-badge&logo=mobx&logoColor=fff" />&nbsp;
-<img src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=fff" />&nbsp;
-<img src="https://img.shields.io/badge/jest-C21325.svg?&style=for-the-badge&logo=jest&logoColor=fff" />&nbsp;
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/node.js-90C53F.svg?&style=for-the-badge&logo=node.js&logoColor=fff" />&nbsp;
-<img src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=fff" />&nbsp;
-<img src="https://img.shields.io/badge/css-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=fff" />&nbsp;
-<img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=fff" />&nbsp;
-<img src="https://img.shields.io/badge/sass-CF649A.svg?&style=for-the-badge&logo=sass&logoColor=fff" />&nbsp;
-<img src="https://img.shields.io/badge/bootstrap-7610F7.svg?&style=for-the-badge&logo=bootstrap&logoColor=fff" />&nbsp;
+#### 🖥 Programming Languages
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=Elixir&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=GNU%20Bash&logoColor=4EAA25" />
 
-#### 🛠 Tools:
+#### ⚡ Frameworks & Libraries
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white" /> 
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-90C53F?style=for-the-badge&logo=Node.js&logoColor=white" />
 
-<img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
-<img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
-<img alt="gitlab" src="https://img.shields.io/badge/gitlab-380D75.svg?&style=for-the-badge&logo=gitlab&logoColor=fff" />&nbsp;
-<img alt="confluence" src="https://img.shields.io/badge/confluence-1F4D7D.svg?&style=for-the-badge&logo=confluence&logoColor=fff" />&nbsp;
-<img alt="photoshop" src="https://img.shields.io/badge/photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />&nbsp;
-<img alt="figma" src="https://img.shields.io/badge/figma-2c2c2c.svg?&style=for-the-badge&logo=figma" />&nbsp;
-<img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
+#### 🗄 Databases & Messaging
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=ApacheKafka&logoColor=white" />
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=RabbitMQ&logoColor=white" />
 
-#### 🐕 My main projects:
+#### 🛠 DevOps & Tools
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" />
+---
+
+### 🚀 Projects
 
 <table class='projects'>
-    <tr>
-    <td>
-        <img src='https://github.com/MadMarchello/MadMarchello/blob/master/assets/SLS_2.gif' width='35%' />
-        <br/>
-        <a href='http://signlanguages.ru'>
-        SignLanguageS
-        </a>
-        <br/>
-        Electronic platform for support and
-        <br/>
-        recognition of Russian Sign Language
-    </td>
-    </tr>
+<tr>
+<td>
+<img src='https://github.com/MadMarchello/MadMarchello/blob/master/assets/SLS_2.gif' width='35%' />
+<br/>
+<a href='http://signlanguages.ru'>
+SignLanguageS
+</a>
+<br/>
+An **electronic platform for learning, supporting, and recognizing Russian Sign Language**.  
+Designed, implemented, and maintained the system architecture and backend services.
+</td>
+</tr>
 </table>
 
-#### 🚀 My Analytics
+---
+
+### 📊 GitHub Analytics
 
 <table>
-  <tr>
-    <td>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MadMarchello" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MadMarchello&layout=compact" />
-    </td>
-  </tr>
+<tr>
+<td>
+<img height="195px" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MadMarchello&layout=compact" />
+</td>
+</tr>
 </table>
