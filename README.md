@@ -35,7 +35,6 @@ Connect with me:
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white" /> &nbsp;
 <img src="https://img.shields.io/badge/Phoenix-F05423?style=for-the-badge" />&nbsp;
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black" />&nbsp;
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black" />&nbsp;
 <img src="https://img.shields.io/badge/Node.js-90C53F?style=for-the-badge&logo=Node.js&logoColor=white" />&nbsp;
 
 #### 🗄 Databases & Messaging
